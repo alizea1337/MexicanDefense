@@ -1,0 +1,7 @@
+Gültige Animations-IDs für trump.fbx:
+
+- 0
+- 1
+- 2
+- 3
+- 5 (Laufen, für flüssigen Loop von 0.1 bis 1.0 wiederholen)
