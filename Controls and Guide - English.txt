@@ -1,0 +1,56 @@
+Translation For Ingame Stuff:
+
+Top left Corner:
+Press "B" to toggle Buildingmode
+Stone Tower 100$
+Fire Tower 200$
+Ice Tower 300$
+
+Top Middle:
+Round Counter
+
+
+Top Right Corner:
+Health = 20
+Points = 300
+
+
+Keybindings - Trump:
+
+B - Buildingmode
+RMB - Move  (By Clicking)
+
+Keybindings - Tower:
+
+When you have build 1 Defense Tower you can move it and adjust its Place with W A S D
+
+W - Up
+A - Left
+S - Down
+D - Right
+
+You can ONLY move the LAST build Tower!
+
+Objective:
+
+Prevent the Mexicans From Reaching the Military US Base (WOIP) by placing down Defense Towers.
+
+
+NOTE THIS IS A WORK IN PROGRESS BUILD ITS NOT DONE YET!!!
+
+
+What i still have to do:
+
+-Add Endless Horde Mode
+-Sound Effects
+-Maybe more Rounds with more Enemy types before it goes into Endless Mode
+-Add Restart Button
+-Add Status Effects for the Multiple Types of Towers
+-Add an actual Military Base XD
+
+And alot of more stuff. If you got Any Ideas what i should try to add contact me.
+
+Contacts:
+
+Steam: https://steamcommunity.com/id/millionairshood/
+Discord: alizea'#0892
